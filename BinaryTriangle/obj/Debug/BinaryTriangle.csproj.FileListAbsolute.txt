@@ -1,0 +1,7 @@
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\BinaryTriangle.exe.config
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\BinaryTriangle.exe
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\BinaryTriangle.pdb
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\BinaryTriangle.csprojResolveAssemblyReference.cache
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\BinaryTriangle.csproj.CoreCompileInputs.cache
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\BinaryTriangle.exe
+c:\users\ganta\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\BinaryTriangle.pdb
