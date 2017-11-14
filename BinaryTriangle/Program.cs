@@ -12,7 +12,7 @@ namespace BinaryTriangle
         {
 
             int p, lastInt = 0, input;
-            Console.WriteLine("Enter the Number of Rows : ");
+            Console.WriteLine("Enter the Num of Rows : ");
             input = int.Parse(Console.ReadLine());
             for (int i = 1; i <= input; i++)
             {
